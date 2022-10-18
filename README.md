@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetanahir1994
+- 👋 Hi, I’m Chetan Ahir currently working as data specialist and social media executive located in banglore.
 - 👀 I’m interested in data management and building model on different algorithm
 - 🌱 I’m currently learning Machine Learning
 - 📫 You can reach me at ahirahir204@gmail.com
